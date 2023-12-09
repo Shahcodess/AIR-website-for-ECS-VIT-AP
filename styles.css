@@ -1,0 +1,65 @@
+/* styles.css */
+
+body {
+    font-family: Arial, sans-serif;
+    line-height: 1.6;
+    margin: 0;
+    padding: 0;
+}
+
+header {
+    background-color:black;
+    color: yellow;
+    text-align: center;
+    padding: 1rem;
+}
+
+header h1 {
+    margin: 0;
+}
+header h2 {
+    margin: 1;
+}
+#bold{
+  color: yellow;
+}
+nav ul {
+    list-style-type: none;
+    padding: 0;
+}
+
+nav ul li {
+    display: inline;
+    margin-right: 1rem;
+}
+
+nav ul li a {
+    color: white;
+    text-decoration: underline;
+}
+
+main {
+    background-color : black;
+    color: white;
+    padding: 2rem;
+}
+
+section {
+    margin-bottom: 2rem;
+}
+
+section h2 {
+    margin-bottom: 1rem;
+}
+
+footer {
+    background-color: black;
+    color: yellow;
+    text-align: center;
+    padding: 1rem;
+    margin-top: 2rem;
+}
+#name{
+  color : white;
+  font-family:serif;
+}
